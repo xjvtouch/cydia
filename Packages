@@ -1,0 +1,17 @@
+Package: com.xiaoji.gamesirsimulatetouch
+Version: 3.1.0-6
+Architecture: iphoneos-arm
+Maintainer: xiaoji
+Installed-Size: 28268
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: debs/com.xiaoji.gamesirsimulatetouch_3.1.0-6_iphoneos-arm.deb
+Size: 10047438
+MD5sum: 9160f033041ac47733b678f6e47e4f34
+SHA1: 850b03154a70746d38a2e7e9c755d72d98cdd7ff
+SHA256: ec00dc095c7a9f3550abb0c090571d2447df9d1fd3d06a74980a1dd6698bee32
+Section: Tweaks
+Homepage: http://www.xiaoji001.com/vtouch/
+Description: 通过此插件，可支持苹果原生MFi 手柄游戏，并可提供触屏按键映射功能。
+Author: xugl@xiaoji.com
+Name: 小鸡手柄精灵
+
